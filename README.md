@@ -14,8 +14,9 @@
 
 Já que você está por aqui, que tal ler um pouco mais sobre mim? Também sugiro ver os meus projetos, tem cada coisa legal por lá!
 
-- 💬 **Sobre mim**:
-  Tenho 22 anos, moro no Rio de Janeiro e sou apaixonado por tecnologia desde quando me entendo por gente, pois cresci em meio a computadores e a oficina de informática que ficava na varanda do meu pai.Foi quando tive meus primeiros contatos com a área de programação. Com o passar dos anos, essa paixão dividiu espaço com o meu amor pelos livros de ficção científica e com a minha vontade de ensinar e repassar o conhecimento que eu adquiria, o que me fez escolher o curso de graduação em **Letras** pela **PUC-Rio**. No entanto, no decorrer do curso, redescobri esse meu amor pela tecnologia quando voltei a estudar programação em casa, e cá estou eu, buscando **novos desafios** e **novas oportunidades** para crescer nessa área que voltei a abraçar depois de algum tempo distante! 
+- 💬 **Sobre mim**...
+
+Tenho 22 anos, moro no Rio de Janeiro e sou apaixonado por tecnologia desde quando me entendo por gente, pois cresci em meio a computadores e a oficina de informática que ficava na varanda do meu pai.Foi quando tive meus primeiros contatos com a área de programação. Com o passar dos anos, essa paixão dividiu espaço com o meu amor pelos livros de ficção científica e com a minha vontade de ensinar e repassar o conhecimento que eu adquiria, o que me fez escolher o curso de graduação em **Letras** pela **PUC-Rio**. No entanto, no decorrer do curso, redescobri esse meu amor pela tecnologia quando voltei a estudar programação em casa, e cá estou eu, buscando **novos desafios** e **novas oportunidades** para crescer nessa área que voltei a abraçar depois de algum tempo distante! 
 
 - 📫 **E-mail de contato**: daniel.n10@hotmail.com
 <!--
