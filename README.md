@@ -10,11 +10,11 @@
 
 - ⚡ **Principal skills**: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
-Once you are here, what about read more about me? You also could see my repositories, there are some cool things to see!
+Once you are here, what about reading more about me? You also could see my repositories, there are some cool things to see!
 
 - 💬 **About me**...
 
-I am 23 years old and I live in Rio de Janeiro, Brazil. I'm passionate about technology since my childhood, since I grew up around computers because my dad had a computer workshop. Those moments were when I had my first contact with programming. I remember when my dad showed me about Ubuntu, sudo user, PHP, and I didn't know that in the future these things would be an important part of my life. Nowadays I have more than two years of professional experience working with Web Development.
+I am 23 years old and live in Rio de Janeiro, Brazil. I've been passionate about technology since my childhood I grew up around computers because my dad had a computer workshop. Those moments were when I had my first contact with programming. I remember when my dad showed me Ubuntu, sudo user, PHP, and I didn't know that in the future these things would be an important part of my life. Nowadays I have a few years of professional experience working with Web Development.
 
 - 📫 **E-mail**: daniel.n10@hotmail.com
 <!--
