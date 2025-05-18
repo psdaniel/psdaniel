@@ -1,7 +1,7 @@
 <!--
 **psdaniel/psdaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# 👋 Hi, I'm Daniel Souza | Senior Software Engineer  
+# 👋 Hi, I'm Daniel Souza | Software Engineer  
 
 🔭 Currently leading engineering initiatives at **Lift Ventures**, integrating **AI, scalable architectures, and modern web technologies** to build innovative digital products.  
 💡 Passionate about **performance optimization, software architecture, and AI-powered applications.**  
