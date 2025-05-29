@@ -8,9 +8,9 @@
 
 ## ⚡ Tech Stack  
 - **Frontend:** React, Next.js, TypeScript, Material UI
-- **Backend:** Ruby on Rails, Nest, Node.js, Django, Flask  
+- **Backend:** Nest, Node.js, Ruby on Rails, Django, Flask  
 - **Databases & Search:** PostgreSQL, Elasticsearch
-- **Infrastructure:** AWS, Docker, Nginx  
+- **Infrastructure:** AWS, Heroku, Docker, Nginx  
 - **Testing & Monitoring:** Cypress, Jest, React Testing Library  
 
 ## 🚀 Notable Work  
