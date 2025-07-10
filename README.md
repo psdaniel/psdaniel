@@ -11,11 +11,6 @@
 - **Backend:** Nest, Node.js, Ruby on Rails, Golang, Django, Flask  
 - **Databases & Search:** PostgreSQL, Elasticsearch
 - **Infrastructure:** AWS, Heroku, Docker, Nginx  
-- **Testing & Monitoring:** Cypress, Jest, React Testing Library  
-
-## 🚀 Notable Work  
-- **Performance Optimization:** Revamped a Red Hat internal application, boosting load times by **300%** 🚀  
-- **AI Integration:** Spearheaded Generative AI solutions 🤖  
-- **End-to-End Testing:** Built Cypress test suites ensuring high reliability 🛠  
+- **Testing & Monitoring:** Cypress, Jest, React Testing Library 
 
 📫 Let's chat about **scalability, AI in production, and best practices in software engineering!**  
